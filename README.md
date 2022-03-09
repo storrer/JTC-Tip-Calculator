@@ -1,0 +1,2 @@
+# Tip Calculator in Python
+This script will ask for the cost of the food, the number of people splitting the bill, and the tip percentage. It will then calculate the total bill and the amount each person should pay based on the inputs. Then, it will print the total bill and the amount each person should pay.
